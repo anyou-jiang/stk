@@ -125,6 +125,7 @@
     <ClCompile Include="..\..\src\Stk.cpp" />
     <ClCompile Include="..\..\src\TwoZero.cpp" />
     <ClCompile Include="main4.cpp" />
+    <ClCompile Include="Scalable_SineWave.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\ADSR.h" />
@@ -144,6 +145,7 @@
     <ClInclude Include="..\..\include\WvIn.h" />
     <ClInclude Include="..\..\include\WvOut.h" />
     <ClInclude Include="..\..\src\Mutex.h" />
+    <ClInclude Include="Scalable_SineWave.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
